@@ -1,0 +1,76 @@
+
+.footer {
+    width: 100%;
+    position: relative;
+    height: auto;
+    background-color: rgb(39, 38, 44);
+    float: left;
+    padding: 30px 0px 30px 0px;
+  }
+  .footer .col {
+    width: 25%;
+    height: auto;
+    float: left;
+    box-sizing: border-box;
+   
+    padding: 0px 20px 20px 20px;
+  }
+  .footer .col h1 {
+    margin: 0;
+    padding: 0;
+    font-family: inherit;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 17px;
+    padding: 20px 0px 5px 0px;
+    color: rgb(154, 106, 255);
+   
+    text-transform: uppercase;
+    letter-spacing: 0.250em;
+  }
+  .footer .col ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  .footer .col ul li {
+    color: #fff;
+    font-size: 14px;
+   float: none;
+    font-weight: bold;
+    padding: 5px 0px 5px 0px;
+    cursor: pointer;
+    transition: .2s;
+   
+  }
+  
+  .footer .col .PancakeSwap{
+    margin: 0;
+    padding: 0;
+    font-family: inherit;
+    font-weight: bold;
+    line-height: 17px;
+    padding: 20px 0px 5px 0px;
+    color: #fff;
+  }
+  
+  .footer .col ul li:hover {
+   
+   text-decoration: underline;
+   background: none !important;
+   
+  }
+  .clearfix {
+    clear: both;
+  }
+  /* icons */
+  .icons i {
+    color: #fff;
+    font-size: 20px;
+    padding: 10px;
+  }
+  .Footercen{
+  text-align: center;
+  color: white;
+  padding-top:30px ;
+  }
