@@ -163,6 +163,13 @@
     float: left;
 }
 
+@media screen and (min-width: 600px) {
+  .col {
+    width: 100%;
+    float: left;
+  }
+}
+
 .text h1{
     font-size: 60px;
     color: rgb(118, 69, 217);

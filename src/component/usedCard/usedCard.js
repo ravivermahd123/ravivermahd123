@@ -8,14 +8,14 @@ export default function UsedCard() {
             <div className="CardsText">
                     <i className="fa-brands fa-mandalorian " style={{color:'#007aff',fontSize:'40px'}}></i>
                 <h1>Used by millions.</h1>
-                 <h1>Trusted with billions.</h1>
+                 <h1 >Trusted with billions.</h1>
                  <p>PancakeSwap has the most users of any decentralized platform, ever.</p>
                  <p>And those users are now entrusting the platform with over $4 billion in funds.</p>
                  <h4>Will you join them?</h4>
             </div>
     
                  <div className="row">
-                    <div className="CAKEMakes-col">
+                    <div className="col-4">
                         <div className="card">
                             <div className="container">
                                 <i className="fa-solid fa-address-book" style={{color:'#007aff', fontSize:'40px'}}></i>
@@ -25,7 +25,7 @@ export default function UsedCard() {
                             </div>
                         </div>
                     </div>
-                    <div className="CAKEMakes-col">
+                    <div className="col-4">
                         <div className="card">
                             <div className="container">
                                 <i className="fa-solid fa-address-book" style={{color:'#007aff', fontSize:'40px'}}></i>
@@ -35,7 +35,7 @@ export default function UsedCard() {
                             </div>
                         </div>
                     </div>
-                    <div className="CAKEMakes-col">
+                    <div className="col-4">
                         <div className="card">
                             <div className="container">
                                 <i className="fa-solid fa-address-book" style={{color:'#007aff',fontSize:'40px'}}></i>

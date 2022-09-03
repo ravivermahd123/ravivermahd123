@@ -9,7 +9,7 @@ export default function TradeBanner() {
 <div className="CAKEMakes">
     <div className="container2">
     <div className="row">
-        <div className="col">
+        <div className="col-6">
             <div className="text">
                 <h1 style={{fontSize: '30px' }}>Trade <span style={{color:' rgb(122, 110, 170)'
                 }}>Trade anything. No registration, no hassle..</span></h1>
@@ -21,10 +21,10 @@ export default function TradeBanner() {
 
             </div>
         </div>
-        <div className="col">
-            <div className="bannerseconImage2"><img src={Image} alt=""/></div>
-            <div className="bannerseconImage"><img src="../asset/image2.webp" alt=""/></div>
-            <div className="bannerseconImage1"><img src="../asset/image.webp" alt=""/></div>
+        <div className="col-6">
+            <div className="bannerseconImage2"><img src="https://pancakeswap.finance/images/home/flying-pancakes/1-top@2x.webp" alt=""/></div>
+            <div className="bannerseconImage"><img src="https://pancakeswap.finance/images/home/flying-pancakes/1-top@2x.webp" alt=""/></div>
+            <div className="bannerseconImage1"><img src="https://pancakeswap.finance/images/home/flying-pancakes/1-top@2x.webp" alt=""/></div>
     
         </div>
     </div>

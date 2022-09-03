@@ -1,6 +1,5 @@
 
 import React from 'react'
-import Headers from './header/header'
 import Earn from './Link/Earn'
 import Win from './Link/Win'
 import Home from './Link/Home'

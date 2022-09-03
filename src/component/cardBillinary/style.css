@@ -162,6 +162,13 @@
     width: 50%;
     float: left;
 }
+@media screen and (min-width: 706px) {
+  .col {
+    width: 100%;
+    /* float: left; */
+  }
+}
+
 
 .text h1{
     font-size: 60px;

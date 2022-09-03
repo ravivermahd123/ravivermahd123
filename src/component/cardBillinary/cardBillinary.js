@@ -8,13 +8,13 @@ export default function CardBillinary() {
     <div className="container2">
     <div className="row">
      
-       <div className="col">
-       <img src="../asset/image.webp" className="Earn" alt="" />
-       <img src="../asset/image2.webp" alt="" className="Earn" />
-        <img src="../asset/image.webp" alt="" className="Earn" />
+       <div className="col-6">
+       <img src="https://pancakeswap.finance/images/home/flying-pancakes/1-top@2x.webp" className="Earn" alt="" />
+       <img src="https://pancakeswap.finance/images/home/flying-pancakes/1-top@2x.webp" alt="" className="Earn" />
+        <img src="https://pancakeswap.finance/images/home/flying-pancakes/1-top@2x.webp" alt="" className="Earn" />
 
     </div>
-       <div className="col">
+       <div className="col-6">
         <div className="text">
             <h1 style={{fontSize: '30px'}}>Earn <span style= {{color: 'rgb(122, 110, 170)'}}>passive income with crypto.</span></h1>
             <p style={{color: 'rgb(122, 110, 170)'}}

@@ -5,7 +5,7 @@ export default function CakemakeCounter() {
     <div className="CAKEMakes">
     <div className="container2">
     <div className="row">
-        <div className="col">
+        <div className="col-6">
             <div className="text">
                 <h1 style={{fontSize: '30px'}}>CAKE <span style={{color: 'rgb(122, 110, 170)'}}
                     > makes our world go round.</span></h1>
@@ -18,10 +18,10 @@ export default function CakemakeCounter() {
 
             </div>
         </div>
-        <div className="col">
-            <div className="bannerseconImage"><img src="../asset/image.webp" alt=""/></div>
-            <div className="bannerseconImage1"><img src="../asset/image.webp" alt=""/></div>
-            <div className="bannerseconImage2"><img src="../asset/image.webp" alt=""/></div>
+        <div className="col-6">
+            <div className="bannerseconImage"><img src="https://pancakeswap.finance/images/home/flying-pancakes/1-top@2x.webp" alt=""/></div>
+            <div className="bannerseconImage1"><img src="https://pancakeswap.finance/images/home/flying-pancakes/1-top@2x.webp" alt=""/></div>
+            <div className="bannerseconImage2"><img src="https://pancakeswap.finance/images/home/flying-pancakes/1-top@2x.webp" alt=""/></div>
     
         </div>
     </div>
